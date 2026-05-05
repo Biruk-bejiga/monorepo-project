@@ -1,0 +1,5 @@
+Name                         ID           Section          Year
+Biruk Bejiga            ugr/25357/14         1             5th
+Biruk Abebe             ugr/25917/14         1               5th
+Abel Alemayehu           ugr/25383/14        1                 5th
+Abel alemu                ugr/25296/14        1                5th
