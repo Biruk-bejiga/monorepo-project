@@ -1,0 +1,11 @@
+{
+  "name": "systems-abel-alemayehu",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./feature1": "./feature1/index.jsx",
+    "./feature2": "./feature2/index.jsx"
+  }
+}
